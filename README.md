@@ -29,7 +29,7 @@ First, clone the repository and install the dependencies:
 git clone https://github.com/Gurukiran20/Lofi-version-converter.git
 cd Lofi-version-converter
 pip install -r requirements.txt
-
+```bash
 ---
 
 ## 🚀 Usage
