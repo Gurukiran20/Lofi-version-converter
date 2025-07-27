@@ -30,14 +30,19 @@ git clone https://github.com/Gurukiran20/Lofi-version-converter.git
 cd Lofi-version-converter
 pip install -r requirements.txt
 
-🚀 Usage
+---
+
+## 🚀 Usage
 Replace input_audio.mp3 with your actual file:
 python lofi_converter.py --input input_audio.mp3 --output lofi_version.mp3
 
  Example:
 python lofi_converter.py --input song.mp3 --output song_lofi.mp3
 
-Requirements: (Create a requirements.txt) file:
+---
+
+## Requirements:
+Create a requirements.txt file:
 Make sure these Python packages are installed:
 
 librosa
